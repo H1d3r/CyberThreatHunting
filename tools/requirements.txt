@@ -10,12 +10,12 @@ pathtools==0.1.2
 pkg-resources==0.0.0
 py4j==0.10.7
 pyarrow==14.0.1
-pyspark==3.2.2
+pyspark==3.3.2
 python-dateutil==2.7.5
 pytz==2018.7
 pyxDamerauLevenshtein==1.5
 PyYAML>=4.2b1
-requests==2.32.0
+requests==2.32.4
 scapy>=2.4.1
 scikit-learn==1.5.0
 scipy==1.10.0
